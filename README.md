@@ -1,2 +1,3 @@
 # readme
-habla de mi perfil y de mis trabajos
+habla de mi perfil y de mis trabajos en clase
+
