@@ -6,7 +6,7 @@
 * me encnta mi trabajo 
 * mis redes sociales
 * enlace a faceboock [click aqui ](https://www.facebook.com/daniel.coyago.167/?locale=es_LA)
-* * [![Faceboock_Logo](IMAGEN/Faceboock_Logo_2023.png)]
+* [![Logo](IMAGEN/Faceboock_Logo_2023.png)]
 
 
 
